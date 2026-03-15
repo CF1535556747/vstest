@@ -1,0 +1,5 @@
+{
+    "stm32-for-vscode.openOCDPath": "D:\\Microsoft VS Code\\STM32TOOLS\\openocd\\0.12.0-7.1\\.content\\bin\\openocd.EXE",
+    "stm32-for-vscode.makePath": "D:\\Microsoft VS Code\\STM32TOOLS\\windows-build-tools\\4.4.1-3.1\\.content\\bin\\make.EXE",
+    "stm32-for-vscode.armToolchainPath": "D:\\Microsoft VS Code\\STM32TOOLS\\arm-none-eabi-gcc\\15.2.1-1.1.1\\.content\\bin"
+}
